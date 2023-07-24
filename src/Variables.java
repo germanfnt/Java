@@ -32,7 +32,7 @@ public class Variables {
 
         Integer integer = 12;
 
-        Double double ;
+        Double doubleVar ;
 
 
 
